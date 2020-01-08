@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "config": {
+    "port": 3000,
+    "virtualDirctory": "/m/test/"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/chestnut647/serverSideRendering/issues"
   },
-  "homepage": "https://github.com/chestnut647/serverSideRendering#readme"
+  "homepage": "https://github.com/chestnut647/serverSideRendering#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.5"
+  }
 }
