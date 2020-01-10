@@ -1,7 +1,7 @@
 
-# 主板及IBU使用的中间页应用
+# 项目
 
-由于基本都是交互较少的页面，因此采用webpack\+express\+ejs的服务端渲染模式。
+采用webpack\+express\+ejs的服务端渲染模式。
 
 ## 页面
 
