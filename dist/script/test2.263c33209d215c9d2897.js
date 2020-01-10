@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{32:function(o,n,t){"use strict";t(41),console.log("test2"),o.hot.accept(),o.hot.dispose((function(){var o=t(2),n=window.location.href;o.get(n).then((function(o){var n=o.data;document.body.innerHTML=n})).catch((function(o){console.error(o)}))}))},41:function(o,n){}},[[32,0,1]]]);
+//# sourceMappingURL=test2.263c33209d215c9d2897.js.map

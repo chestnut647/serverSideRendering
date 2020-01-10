@@ -1,0 +1,11 @@
+{
+    "PATH": {
+        "PUBLIC_PATH": "/m/test/"
+    },
+    "DIRC": {
+        "DIST": "dist",
+        "SCRIPT": "script",
+        "VIEW": "views",
+        "STYLE": "style"
+    }
+}

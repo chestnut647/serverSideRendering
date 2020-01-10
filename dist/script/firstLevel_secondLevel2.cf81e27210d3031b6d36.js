@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{1:function(o,n,t){"use strict";o.exports={sayHello:function(o){console.log("hi, "+o)}}},30:function(o,n,t){"use strict";t(37);var c=t(1);console.log((0,c.sayHello)("first-second2")),o.hot.accept(),o.hot.dispose((function(){var o=t(2),n=window.location.href;o.get(n).then((function(o){var n=o.data;document.body.innerHTML=n})).catch((function(o){console.error(o)}))}))},37:function(o,n){}},[[30,0,1]]]);
+//# sourceMappingURL=firstLevel_secondLevel2.cf81e27210d3031b6d36.js.map
